@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Load</string>
+    <string name="message">这是一个登录界面</string>
+    <string name="load">登录</string>
+    <string name="string_load" />
+    <string name="exit">退出</string>
+    <string name="type">请输入用户名：</string>
+    <string name="password">请输入密码:</string>
+</resources>
